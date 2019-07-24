@@ -1,0 +1,15 @@
+.header{
+    height: 4em;
+    
+    background-color: black;
+}
+.data{
+    color: white;
+}
+img{
+    border: 1px solid black;
+    height: -webkit-fill-available;
+}
+.active{
+    color:red;
+}
